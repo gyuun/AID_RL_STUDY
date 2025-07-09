@@ -58,7 +58,7 @@
 | 주차 | 이름          | 링크                     |
 |:----:|:-------------:|:------------------------:|
 | 6주차 | 심영찬 ||
-| 6주차 | 김태균 |[ch06](https://well-bagel-d92.notion.site/6-ch07-1fe33c9b1bdd80f29780d4ed16a4e810?source=copy_link)|
+| 6주차 | 김태균 |[ch07](https://well-bagel-d92.notion.site/6-ch07-1fe33c9b1bdd80f29780d4ed16a4e810?source=copy_link)|
 | 6주차 | 박비원 ||
 | 6주차 | 전진혁 ||
 
